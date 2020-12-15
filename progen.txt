@@ -1,0 +1,8 @@
+Name of the app - Barter Operations
+
+as an admin i will first ask for the emailId and password from the user. If the user does not have an existing account, then i will ask the user to create
+another account.
+
+as a user i will first login if i dont have an account then i will create one.
+as a user if  i am a giver then i will search fpr anything that i need and take it
+as a user if i am a donor then i will donate anything i want to
